@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ali">علی مردان خان</string>
+    <string name="farsi">فارسی</string>
+    <string name="english">انگلیسی</string>
+    <string name="next">بعدی</string>
+</resources>

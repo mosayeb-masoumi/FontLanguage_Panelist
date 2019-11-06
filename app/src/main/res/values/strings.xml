@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="ali">Ali mardan khan</string>
+    <string name="farsi">Farsi</string>
+    <string name="english">English</string>
+    <string name="next">Next</string>
+
+
 </resources>
